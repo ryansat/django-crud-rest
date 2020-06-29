@@ -1,1 +1,1 @@
-# django-crud-rest
+Django Rest Api Example
